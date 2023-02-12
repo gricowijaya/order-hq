@@ -1,0 +1,18 @@
+{
+  "name": "order-management",
+  "version": "1.0.0",
+  "description": "backend app for managing your business by sorting the order it is to make the your order to be easier by using one platform",
+  "main": "app.js",
+  "repository": "https://github.com/gricowijaya/order-hq",
+  "author": "gricowijaya",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "sequelize": "^6.28.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
